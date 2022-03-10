@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/models/Note.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/models/Matiere.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/Controler/EtudiantsControler.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/models/Responsable.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/Controler/BulletinControler.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/web/enregistrementnote.jsp</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/web/bulletin.jsp</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/models/Noteeleve.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/services/NoteService.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/services/Ecolage.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/services/LoginResponsable.java</file>
+            <file>file:/C:/Users/a/Documents/NetBeansProjects8.2/EcoleUpdate/src/java/models/Paiement_ecolage.java</file>
+        </group>
+    </open-files>
+</project-private>
